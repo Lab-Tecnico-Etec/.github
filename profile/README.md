@@ -4,11 +4,11 @@
 
 O **Lab Técnico ETEC** é um laboratório colaborativo para desenvolver projetos tecnológicos e educacionais, transformar conhecimentos técnicos em soluções práticas e documentar a evolução de seus participantes.
 
-## 🎯 Nossa missão
+##  Nossa missão
 
 Promover aprendizado prático, colaboração responsável e desenvolvimento de projetos com qualidade, documentação, segurança e autoria clara.
 
-## 🧩 Áreas de atuação
+##  Áreas de atuação
 
 - **Desenvolvimento web:** sites, interfaces e aplicações.
 - **Desenvolvimento de software:** sistemas, ferramentas e aplicações.
@@ -17,7 +17,7 @@ Promover aprendizado prático, colaboração responsável e desenvolvimento de p
 - **Automação e prototipagem:** experimentos e soluções tecnológicas.
 - **Documentação técnica:** guias, padrões e materiais de apoio.
 
-## 🚀 Projetos do laboratório
+##  Projetos do laboratório
 
 Cada projeto possui um repositório canônico e documentação própria. O catálogo diferencia projetos vinculados ao laboratório daqueles cujo código ainda está sendo consolidado.
 
@@ -27,7 +27,7 @@ Cada projeto possui um repositório canônico e documentação própria. O catá
 
 Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) para conhecer a origem, a classificação e o estado de consolidação de cada projeto.
 
-## 🤝 Como trabalhamos
+##  Como trabalhamos
 
 - Respeitamos autoria, créditos e participação de cada integrante.
 - Usamos Issues, branches e Pull Requests quando forem úteis para organizar e revisar mudanças.
@@ -37,7 +37,7 @@ Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-centr
 - Projetos pessoais permanecem independentes, salvo acordo claro de seus autores.
 - A publicação pública é seletiva e depende de revisão e autorização apropriadas.
 
-## 📚 Documentação e colaboração
+##  Documentação e colaboração
 
 - [Central de documentação](https://github.com/Lab-Tecnico-Etec/lab-central)
 - [Catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md)
@@ -45,7 +45,7 @@ Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-centr
 - [Código de conduta](https://github.com/Lab-Tecnico-Etec/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Política de segurança](https://github.com/Lab-Tecnico-Etec/.github/blob/main/SECURITY.md)
 
-## 🌱 Nosso princípio
+##  Nosso princípio
 
 A tecnologia se aprende construindo, testando, documentando e colaborando.
 
