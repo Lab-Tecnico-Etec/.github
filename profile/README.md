@@ -21,8 +21,8 @@ Promover aprendizado prático, colaboração responsável e desenvolvimento de p
 
 Cada projeto possui um repositório canônico e documentação própria. O catálogo diferencia projetos vinculados ao laboratório daqueles cujo código ainda está sendo consolidado.
 
-- [**Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria):** projeto coletivo de desenvolvimento web; consolidação de recursos quase concluída.
-- [**Java — exercícios e estudos**](https://github.com/Lab-Tecnico-Etec/Projetos-Java):** acervo de códigos acadêmicos organizado por listas.
+- **[Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria):** projeto coletivo de desenvolvimento web; consolidação de recursos quase concluída.
+- **[Java — exercícios e estudos](https://github.com/Lab-Tecnico-Etec/Projetos-Java):** acervo de códigos acadêmicos organizado por listas.
 - **Novas iniciativas:** projetos tecnológicos e educacionais desenvolvidos ou adotados pelo laboratório.
 
 Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) para conhecer a origem, a classificação e o estado de consolidação de cada projeto.
