@@ -2,41 +2,51 @@
 
 **Tecnologia, criatividade e aprendizagem construídas em conjunto.**
 
-O **Lab Técnico ETEC** é uma organização colaborativa dedicada ao desenvolvimento de projetos tecnológicos e educacionais, conectando aprendizado prático, inovação e boas práticas de desenvolvimento.
-
-Nosso objetivo é transformar conhecimentos técnicos em projetos reais, compartilhar experiências e construir portfólios que demonstrem a evolução acadêmica e profissional dos participantes.
+O **Lab Técnico ETEC** é um laboratório colaborativo para desenvolver projetos tecnológicos e educacionais, transformar conhecimentos técnicos em soluções práticas e documentar a evolução de seus participantes.
 
 ## 🎯 Nossa missão
 
-Desenvolver soluções tecnológicas, incentivar a colaboração entre estudantes e estabelecer uma cultura de qualidade, documentação, responsabilidade e aprendizado contínuo.
+Promover aprendizado prático, colaboração responsável e desenvolvimento de projetos com qualidade, documentação, segurança e autoria clara.
 
 ## 🧩 Áreas de atuação
 
-- **Desenvolvimento de software:** aplicações, sistemas e ferramentas.
-- **Desenvolvimento web:** interfaces, sites e aplicações web.
-- **Dados e analytics:** coleta, organização, análise e visualização de dados.
-- **Automação e tecnologia:** protótipos e soluções experimentais.
-- **Documentação técnica:** guias, padrões, tutoriais e materiais de apoio.
+- **Desenvolvimento web:** sites, interfaces e aplicações.
+- **Desenvolvimento de software:** sistemas, ferramentas e aplicações.
+- **Programação e aprendizagem:** exercícios, estudos e projetos acadêmicos.
+- **Dados e analytics:** coleta, organização, análise e visualização de informações.
+- **Automação e prototipagem:** experimentos e soluções tecnológicas.
+- **Documentação técnica:** guias, padrões e materiais de apoio.
+
+## 🚀 Projetos do laboratório
+
+Cada projeto possui um repositório canônico e documentação própria. O catálogo diferencia projetos vinculados ao laboratório daqueles cujo código ainda está sendo consolidado.
+
+- **Sorveteria:** projeto coletivo de desenvolvimento web.
+- **Java — exercícios e estudos:** acervo de códigos acadêmicos para apoiar o aprendizado.
+- **Novas iniciativas:** projetos tecnológicos e educacionais desenvolvidos ou adotados pelo laboratório.
+
+Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) para conhecer a origem, a classificação e o estado de consolidação de cada projeto.
 
 ## 🤝 Como trabalhamos
 
-- Projetos com objetivos, documentação e responsabilidades claras.
-- Colaboração por meio de issues, pull requests, revisões e sugestões.
-- Respeito à autoria e à participação de cada integrante.
-- Atenção à segurança, à privacidade e à qualidade do código.
-- Publicação responsável, respeitando permissões e direitos dos autores.
-- Organização preparada para crescer sem burocracia desnecessária.
+- Respeitamos autoria, créditos e participação de cada integrante.
+- Usamos Issues, branches e Pull Requests quando forem úteis para organizar e revisar mudanças.
+- Priorizamos código compreensível, documentação útil e validações proporcionais ao projeto.
+- Protegemos credenciais, dados pessoais e materiais que não tenham autorização de publicação.
+- Projetos coletivos são desenvolvidos com responsabilidades explícitas.
+- Projetos pessoais permanecem independentes, salvo acordo claro de seus autores.
+- A publicação pública é seletiva e depende de revisão e autorização apropriadas.
 
-## 🏗️ Nossa estrutura
+## 📚 Documentação e colaboração
 
-Os projetos são organizados em repositórios próprios, com um catálogo central para facilitar sua descoberta e acompanhamento. Projetos individuais preservam a autonomia de seus autores, enquanto projetos coletivos podem ser desenvolvidos sob a organização.
+- [Central de documentação](https://github.com/Lab-Tecnico-Etec/lab-central)
+- [Catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md)
+- [Guia de contribuição](https://github.com/Lab-Tecnico-Etec/.github/blob/main/CONTRIBUTING.md)
+- [Código de conduta](https://github.com/Lab-Tecnico-Etec/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Política de segurança](https://github.com/Lab-Tecnico-Etec/.github/blob/main/SECURITY.md)
 
-Consulte o [catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) e as [diretrizes do laboratório](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/README.md).
+## 🌱 Nosso princípio
 
-## 🚀 Participe
-
-Acreditamos que a tecnologia se aprende construindo, testando, documentando e colaborando.
-
-Se você quer transformar ideias em projetos, desenvolver suas habilidades e aprender em equipe, este laboratório é um espaço para crescer e construir soluções em conjunto.
+A tecnologia se aprende construindo, testando, documentando e colaborando.
 
 **Aprender na prática. Desenvolver com propósito. Evoluir em equipe.**
