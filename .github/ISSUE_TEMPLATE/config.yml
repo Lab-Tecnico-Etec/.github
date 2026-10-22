@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Diretrizes e catálogo do laboratório
+    url: https://github.com/Lab-Tecnico-Etec/lab-central
+    about: Consulte a documentação central antes de abrir uma issue.
