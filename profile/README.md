@@ -2,11 +2,11 @@
 
 # LAB TÉCNICO ETEC
 
-### Projetos de grande porte, colaboração e conhecimento aplicado.
+### Projetos de tecnologia, automação e conhecimento aplicado.
 
-**Uma organização de estudantes dedicada a desenvolver, documentar e apresentar projetos acadêmicos e tecnológicos — com destaque para o Trabalho de Conclusão de Curso (TCC) desenvolvido pelo grupo na ETEC.**
+**Portfólio coletivo de cinco integrantes: projetos em desenvolvimento, documentação técnica e espaço reservado para o futuro TCC da ETEC.**
 
-[Projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) · [Integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md) · [Como trabalhamos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/docs/ORGANIZATION.md)
+[Projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) · [Integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md) · [Central de documentação](https://github.com/Lab-Tecnico-Etec/lab-central)
 
 </div>
 
@@ -16,35 +16,36 @@
 
 O **Lab Técnico ETEC** reúne trabalhos desenvolvidos em equipe, projetos de maior escopo e iniciativas acadêmicas que merecem documentação e apresentação próprias.
 
-A organização funciona como um portfólio coletivo: cada projeto tem sua página, seu repositório, seus créditos e seus responsáveis. O objetivo é mostrar não apenas o resultado final, mas também o processo, as tecnologias, as contribuições e a evolução de cada trabalho.
+A organização funciona como um portfólio coletivo: cada projeto tem sua página, seus créditos e sua documentação. O objetivo é mostrar o processo, as tecnologias, as contribuições e a evolução de cada trabalho.
 
-## Destaques
+## Projeto atual — Estufa Inteligente
 
-| Área | O que você encontra |
-|---|---|
-| **TCC do grupo** | Trabalho de Conclusão de Curso desenvolvido coletivamente na ETEC, com documentação, equipe e etapas |
-| **Projetos de grande porte** | Sistemas e trabalhos relevantes desenvolvidos pelo grupo, mesmo quando não são o TCC |
-| **Integrantes** | Perfil, áreas de interesse, competências e contribuições de cada participante |
-| **Acervo** | Repositórios, documentação técnica, apresentações e histórico dos projetos |
+A equipe está desenvolvendo uma **estufa inteligente** utilizando **Arduino** e o software **Proteus**. O projeto está em andamento; requisitos, componentes, funcionalidades, simulações e resultados serão documentados conforme forem definidos e testados.
 
-## Explore
+[Ver documentação da Estufa Inteligente](https://github.com/Lab-Tecnico-Etec/lab-central/tree/main/projetos/estufa-inteligente).
 
-- **[Catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md)** — projetos em destaque, TCC e trabalhos concluídos ou em andamento.
-- **[Equipe e integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md)** — conheça as pessoas por trás dos projetos.
-- **[Acervo institucional](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec)** — repositório de referência da organização.
+## Futuro TCC da ETEC
+
+O tema do TCC ainda não foi definido, e a ETEC ainda não anunciou o início dos trabalhos. A página do TCC é preparatória e será preenchida quando houver orientação oficial. A Estufa Inteligente é um projeto separado e **não está sendo apresentada como TCC**.
+
+[Ver página preparatória do TCC](https://github.com/Lab-Tecnico-Etec/lab-central/tree/main/projetos/tcc-etec).
+
+## Integrantes atuais
+
+- Luca — [@Lvc4br](https://github.com/Lvc4br)
+- Fred — [@Csx-Santosz](https://github.com/Csx-Santosz)
+- Bianca — [@Bianca2804](https://github.com/Bianca2804)
+- Arthur — [@Chiizo-quent](https://github.com/Chiizo-quent)
+- Higor — [@higormonteiro500-lab](https://github.com/higormonteiro500-lab)
+
+[Conheça os perfis individuais](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md).
+
+## Catálogo e documentação
+
+- **[Catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md)** — projetos em destaque, andamento e futuro TCC.
+- **[Equipe e integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md)** — perfis e contas GitHub.
 - **[Central de documentação](https://github.com/Lab-Tecnico-Etec/lab-central)** — padrões, modelos e orientações.
-
-## Como os projetos são apresentados
-
-Cada projeto deve ter uma página própria com:
-
-- contexto, problema e objetivos;
-- escopo e funcionalidades;
-- integrantes e contribuições individuais;
-- tecnologias e arquitetura;
-- imagens, demonstrações ou apresentação, quando disponíveis;
-- documentação, instalação e instruções de uso;
-- situação atual, resultados e próximos passos.
+- **[Acervo institucional](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec)** — repositório de referência da organização.
 
 ## Princípios
 
