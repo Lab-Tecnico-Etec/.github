@@ -1,28 +1,62 @@
-# Lab Técnico ETEC
+<div align="center">
 
-**Repositório de apoio à organização e ao armazenamento dos Trabalhos de Conclusão de Curso (TCCs) da ETEC.**
+# LAB TÉCNICO ETEC
 
-Este espaço serve para manter os projetos de TCC organizados, com documentação clara e histórico de alterações. O uso deve respeitar as orientações da escola, a autoria dos estudantes e a privacidade dos dados.
+### Projetos de grande porte, colaboração e conhecimento aplicado.
 
-## Acesso rápido
+**Uma organização de estudantes dedicada a desenvolver, documentar e apresentar projetos acadêmicos e tecnológicos — com destaque para o Trabalho de Conclusão de Curso (TCC) desenvolvido pelo grupo na ETEC.**
 
-- [Repositório institucional de TCCs](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec)
-- [Central com orientações básicas](https://github.com/Lab-Tecnico-Etec/lab-central)
+[Projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md) · [Integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md) · [Como trabalhamos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/docs/ORGANIZATION.md)
 
-## Organização sugerida para cada TCC
+</div>
 
-Cada trabalho deve ficar em seu próprio repositório, quando possível, com:
+---
 
-- **README.md:** título, objetivo, curso/turma quando apropriado, integrantes e orientador se autorizado.
-- **Documentação:** proposta, requisitos, decisões e instruções de uso.
-- **Código e arquivos do projeto:** apenas materiais necessários e autorizados.
-- **Histórico:** alterações registradas no Git.
+## Sobre a organização
 
-## Cuidados importantes
+O **Lab Técnico ETEC** reúne trabalhos desenvolvidos em equipe, projetos de maior escopo e iniciativas acadêmicas que merecem documentação e apresentação próprias.
 
-- Não publique dados pessoais, senhas, tokens, documentos de identificação ou informações escolares restritas.
-- Confirme a autorização dos integrantes e da escola antes de tornar um TCC público.
-- Mantenha cópias de segurança dos documentos importantes.
-- Preserve a autoria e indique fontes e licenças de materiais externos.
+A organização funciona como um portfólio coletivo: cada projeto tem sua página, seu repositório, seus créditos e seus responsáveis. O objetivo é mostrar não apenas o resultado final, mas também o processo, as tecnologias, as contribuições e a evolução de cada trabalho.
 
-**Finalidade: organizar e preservar os TCCs da ETEC, sem substituir as regras oficiais da escola.**
+## Destaques
+
+| Área | O que você encontra |
+|---|---|
+| **TCC do grupo** | Trabalho de Conclusão de Curso desenvolvido coletivamente na ETEC, com documentação, equipe e etapas |
+| **Projetos de grande porte** | Sistemas e trabalhos relevantes desenvolvidos pelo grupo, mesmo quando não são o TCC |
+| **Integrantes** | Perfil, áreas de interesse, competências e contribuições de cada participante |
+| **Acervo** | Repositórios, documentação técnica, apresentações e histórico dos projetos |
+
+## Explore
+
+- **[Catálogo de projetos](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/catalogo/PROJETOS.md)** — projetos em destaque, TCC e trabalhos concluídos ou em andamento.
+- **[Equipe e integrantes](https://github.com/Lab-Tecnico-Etec/lab-central/blob/main/equipe/README.md)** — conheça as pessoas por trás dos projetos.
+- **[Acervo institucional](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec)** — repositório de referência da organização.
+- **[Central de documentação](https://github.com/Lab-Tecnico-Etec/lab-central)** — padrões, modelos e orientações.
+
+## Como os projetos são apresentados
+
+Cada projeto deve ter uma página própria com:
+
+- contexto, problema e objetivos;
+- escopo e funcionalidades;
+- integrantes e contribuições individuais;
+- tecnologias e arquitetura;
+- imagens, demonstrações ou apresentação, quando disponíveis;
+- documentação, instalação e instruções de uso;
+- situação atual, resultados e próximos passos.
+
+## Princípios
+
+**Autoria · Colaboração · Documentação · Transparência · Aprendizado**
+
+Os trabalhos são apresentados respeitando a autoria dos participantes, as orientações da ETEC e as permissões de divulgação. Informações pessoais, credenciais e materiais restritos não devem ser publicados.
+
+---
+
+<div align="center">
+
+**LAB TÉCNICO ETEC**  
+*Projetos construídos em conjunto. Conhecimento compartilhado.*
+
+</div>
